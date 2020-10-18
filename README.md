@@ -1,8 +1,8 @@
-### Hello, I'm Sirae El-Jawhari
+### Hello, I'm Sirage El-Jawhari
 
 ## I'm a current student at CSULB!
 
-- 🌱 I’m currently working on [AutoBuild ]("https://github.com/Hunter3787/Saturday-Solution")
+- 🌱 I’m currently working on [AutoBuild ](https://github.com/Hunter3787/Saturday-Solution)
 - 🥅 2020 Goals: Work on more programming projects.
 
 
