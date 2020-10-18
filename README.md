@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, I'm Sirae El-Jawhari
 
-<!--
-**SergeJawhari/SergeJawhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a current student at CSULB!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on AutoBuild " width="22px" src="https://github.com/Hunter3787/Saturday-Solution" />][GitHub]
+- 🥅 2020 Goals: Work on more programming projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me on LinkedIn:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/sirage-el-jawhari-71ba701a3/" />][linkedin]
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+[linkedin]: https://www.linkedin.com/in/sirage-el-jawhari-71ba701a3/
+
