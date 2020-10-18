@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AutoBuild](https://github.com/Hunter3787/Saturday-Solution)
 
-- 🌱 I’m currently learning **Databases, Data Visualization, Artificial Intelligence**
+- 🌱 I’m currently learning **Databases, Data Visualization, Artificial Intelligence and Software Development**
 
 - 📫 How to reach me **sergejawhari@gmail.com**
 
