@@ -2,7 +2,7 @@
 
 ## I'm a current student at CSULB!
 
-- 🌱 I’m currently working on AutoBuild " width="22px" src="https://github.com/Hunter3787/Saturday-Solution" />][GitHub]
+- 🌱 I’m currently working on [AutoBuild ]("https://github.com/Hunter3787/Saturday-Solution")
 - 🥅 2020 Goals: Work on more programming projects.
 
 
