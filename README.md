@@ -8,7 +8,7 @@
 
 ### Connect with me on LinkedIn:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/sirage-el-jawhari-71ba701a3/" />][linkedin]
+[<img align="left" alt="SergeJawhari | LinkedIn" width="22px" src="https://www.linkedin.com/in/sirage-el-jawhari-71ba701a3/" />][linkedin]
 
 ---
 
