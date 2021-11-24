@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sirage El-Jawhari</h1>
 <h3 align="center">I am a recent alumnus from CSULB!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sergejawhari&label=Profile%20views&color=0e75b6&style=flat" alt="sergejawhari" /> </p>
-
 
 - 🔭 Most recent project [AutoBuild](https://github.com/Hunter3787/Saturday-Solution)
 
