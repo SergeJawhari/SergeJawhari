@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sirage El-Jawhari</h1>
-<h3 align="center">I am a current undergrad student at CSULB!</h3>
+<h3 align="center">I am a recent alumnus from CSULB!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sergejawhari&label=Profile%20views&color=0e75b6&style=flat" alt="sergejawhari" /> </p>
 
 
-- 🔭 I’m currently working on [AutoBuild](https://github.com/Hunter3787/Saturday-Solution)
+- 🔭 Most recent project [AutoBuild](https://github.com/Hunter3787/Saturday-Solution)
 
 - 🌱 I’m currently learning **.NET**
 
