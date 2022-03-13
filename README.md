@@ -4,7 +4,7 @@
 
 - 🔭 Most recent project [AutoBuild](https://github.com/Hunter3787/Saturday-Solution)
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET and Angular**
 
 - 📫 How to reach me **sergejawhari@gmail.com**
 
